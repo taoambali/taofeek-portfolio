@@ -1,8 +1,9 @@
 <template>
   <header
-    class="flex justify-between bg-red-300 items-center p-6 bg-opacity-50 relative z-20"
+    class="flex justify-between bg-[#fff1cb] items-center p-6  relative z-20"
   >
-    <div class="text-red-500 text-3xl font-bold">LOGO</div>
+  <!-- bg-opacity-50 -->
+    <div class="text-[#ff8f8f] text-3xl font-bold">TaoAmbali</div>
 
     <!-- mobile button -->
     <div class="md:hidden z-30">
